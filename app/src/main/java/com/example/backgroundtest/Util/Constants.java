@@ -26,8 +26,8 @@ public class Constants {
     public final static UUID UUID_CTRL_COFIG = UUID.fromString( CLIENT_CHARACTERISTIC_CONFIG );
 
     // focus MAC address
-    //public final static String MAC_ADDR= "00:BA:E1:56:D4:13";
-    public final static String MAC_ADDR= "74:C7:13:6D:AC:98";
+    public final static String MAC_ADDR= "00:BA:E1:56:D4:13";
+    //public final static String MAC_ADDR= "74:C7:13:6D:AC:98";
     public final static String DEVICE_NAME = "MP-BLE";
 
     // scan period
